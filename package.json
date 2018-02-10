@@ -1,0 +1,14 @@
+{
+  "name": "Electron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Ryan Clark",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
